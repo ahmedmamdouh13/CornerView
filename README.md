@@ -1,5 +1,8 @@
 
-# Android CornerView
+# Android CornerView 
+[![](https://jitpack.io/v/ahmedmamdouh13/CornerView.svg)](https://jitpack.io/#ahmedmamdouh13/CornerView)
+
+
 
 <h2>switch between two fragments from corner by dragging or on click.</h2>
  
